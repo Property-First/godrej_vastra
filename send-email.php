@@ -169,7 +169,7 @@ IP Address: ". $ip . " |\r\n
 
 
 
-Project: ". $project = "Godrej Rivershore, Nagpur" . " |\r\n
+Project: ". $project = "Godrej Altus, Vastrapur, Ahmedabad" . " |\r\n
 
 
 
